@@ -1,0 +1,16 @@
+CHANGELOG :-
+
+ROOTx 2.1
+-> Added Special Support for  Razr Blade
+-> Added zergRUSH Exploit
+-> Support for Galaxy Mini, POP ,POP+ and more with zergRUSH exploit
+-> Added easier UI options like 'Go to main menu' :P
+
+ROOTx 2.0
+-> Unroot Devices
+-> Unlock Bootloader
+-> Add Busybox 
+
+ROOTx 1.0
+-> Root Devices (First Edition)
+-> Added Support for devices and Compatibility Device list ( Update no. 2 )
